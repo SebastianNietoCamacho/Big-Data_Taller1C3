@@ -6,7 +6,7 @@ Integrantes: Sebastián Camilo Nieto Camacho, Diego Mauricio Veloza Martínez.
 
 Presentado a: Prof. Fabián Camilo Peña. 
 
-VIDEO EXPLICATIVO:  -- SOLO VISIBLE PARA INTEGRANTES DE LA UNIVERSIDAD EL BOSQUE. 
+VIDEO EXPLICATIVO: https://drive.google.com/file/d/1btiuBaMZMLBThjnRpaGEL4KuIfaq0Gxe/view?usp=sharing -- SOLO VISIBLE PARA INTEGRANTES DE LA UNIVERSIDAD EL BOSQUE. 
 
 
 
