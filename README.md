@@ -17,3 +17,4 @@ Este repositorio contiene tres archivos (.ipynb) relacionados a la utilización 
           
 <img src="https://user-images.githubusercontent.com/90856580/143684264-c0096e5e-cf2a-4d18-9d89-6a4e218b72fa.png" width="350px" hight="100px">
         
+<img src="https://user-images.githubusercontent.com/90856580/143684357-2b6e9762-da34-4499-b1ea-c9b77d229bfa.png" width="350px" hight="100px">
